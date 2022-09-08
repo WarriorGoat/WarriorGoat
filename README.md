@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @WarrriorGoat
-- 👀 I’m interested in learning more about programming in general and eventually moving on to Cyber
-- 🌱 I’m currently learning Python, just finishing up the Python for Everyone class on Courera
+- 🌱 I’m currently in the CodeImmersives Full Stack program.  It's a JS based long term boot camp.  
+-    I'm concurrently enrolled in Meta's Backend Developer course on Coursera.
+-    I also am learning Python, and have finised the Python for Everyone class on Coursera
+-    And I completed the Google IT Support Professional Certification through Coursera as a lead in to all of the coding work.
 - 💞️ I’m looking to collaborate on anything I can be helpful with.
 - 📫 How to reach me WarriorGoatUSA (at) gmail.com
 
